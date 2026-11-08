@@ -9,7 +9,9 @@
   which process owns it, and where it's talking to.
 </p>
 
----
+<p align="center">
+  <img src="assets/screenshot.png" alt="PortWatcher: a live table of ports, protocols, states, processes and addresses" width="860">
+</p>
 
 ## Features
 
